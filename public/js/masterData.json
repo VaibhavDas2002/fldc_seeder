@@ -1,0 +1,208 @@
+{
+    "genders": {
+        "M": "Male / পুরুষ",
+        "F": "Female / মহিলা",
+        "Others": "Others / অন্যান্য"
+    },
+    "religions": {
+        "Buddhism": "Buddhism / বৌদ্ধ ধর্ম",
+        "Christianity": "Christianity / খ্রিষ্ট ধর্ম",
+        "Hinduism": "Hinduism / হিন্দু ধর্ম",
+        "Islam": "Islam / ইসলাম",
+        "Jainism": "Jainism / জৈন ধর্ম",
+        "Sikhism": "Sikhism / শিখ ধর্ম",
+        "Zoroastrianism": "Zoroastrianism / জরাথুস্ট্রবাদ",
+        "Others": "Others / অন্যান্য"
+    },
+    "categories": [
+        "UR",
+        "EWS",
+        "SC",
+        "ST",
+        "OBC"
+    ],
+    "rcTypes": {
+        "AAY": "AAY (Antyodaya Anna Yojana)",
+        "PHH": "PHH (Priority Household)",
+        "SPHH": "SPHH (Special Priority Household)",
+        "RKSY1": "RKSY-I",
+        "RKSY2": "RKSY-II",
+        "Non-subsidized": "Non-Subsidized / ভর্তুকিহীন"
+    },
+    "liftingStatuses": [
+        "Lifting Regularly",
+        "Not Lifting",
+        "Surrendered"
+    ],
+    "landOwnershipTypes": [
+        "Own",
+        "Leased",
+        "Both"
+    ],
+    "electricityProviders": [
+        "WBSEDCL",
+        "CESC"
+    ],
+    "employmentNatures": [
+        "Government Sector",
+        "Salaried, in Private Sector",
+        "Formal Sector Self-Employed (Entrepreneur/Business/Proprietor/etc.)",
+        "Part-time job",
+        "Informal Sector Self-Employed (Artisan/Craftsman/Farmer/etc.)",
+        "Housewife",
+        "Unemployed",
+        "Migrant Labourer",
+        "Others"
+    ],
+    "documentTypes": [
+        {
+            "value": "KCC",
+            "label": "Kisan Credit Card (KCC)"
+        },
+        {
+            "value": "ARD KCC",
+            "label": "ARD KCC"
+        },
+        {
+            "value": "Artisan Credit Card",
+            "label": "Artisan Credit Card"
+        },
+        {
+            "value": "MJCC",
+            "label": "MGNREGA Job Card (MJCC)"
+        },
+        {
+            "value": "Student CC",
+            "label": "Student Credit Card"
+        },
+        {
+            "value": "Disability Certificate",
+            "label": "Disability Certificate"
+        },
+        {
+            "value": "Fisherman Registration Card",
+            "label": "Fisherman Registration Card"
+        },
+        {
+            "value": "Others",
+            "label": "Others"
+        }
+    ],
+    "schoolTypes": [
+        "Govt / Govt Aided / Sponsored School",
+        "Private School",
+        "Recognized Madrasah",
+        "Other Madrasah",
+        "Others",
+        "NA"
+    ],
+    "benefitSchemes": {
+        "Student Credit Card Scheme": "Student Credit Card Scheme",
+        "Rajya Khadya Surakshya Yojana": "Rajya Khadya Surakshya Yojana",
+        "National Food Security Act": "National Food Security Act",
+        "Swasthya Sathi": "Swasthya Sathi",
+        "National Food Security Mission": "National Food Security Mission",
+        "Rashtriya Krishi Vikas Yojna": "Rashtriya Krishi Vikas Yojna",
+        "Taposili Bandhu(SC)": "Taposili Bandhu(SC)",
+        "SWAMI VIVEKANANDA MERIT CUM MEANS SCHOLARSHIP for MINORITIES": "SWAMI VIVEKANANDA MERIT CUM MEANS SCHOLARSHIP for MINORITIES",
+        "Legacy Old Age Pension for ST": "Legacy Old Age Pension for ST",
+        "WCD Widow Pension": "WCD Widow Pension",
+        "WCD Old Age Pension": "WCD Old Age Pension",
+        "WCD Manabik": "WCD Manabik",
+        "Lakshmir Bhandar": "Lakshmir Bhandar",
+        "Kanyashree Prakalpa": "Kanyashree Prakalpa",
+        "Shikshashree Scheme for ST": "Shikshashree Scheme for ST",
+        "Jai Johar": "Jai Johar",
+        "Aikyashree": "Aikyashree",
+        "YUVASREE": "YUVASREE",
+        "Pension under West Bengal Transport Workers' Social Security Scheme, 2010": "Pension under West Bengal Transport Workers' Social Security Scheme, 2010",
+        "Pension under Building & Construction Workers' Welfare Act": "Pension under Building & Construction Workers' Welfare Act",
+        "Financial Assistance to the Workers of Locked-out Industrial Units": "Financial Assistance to the Workers of Locked-out Industrial Units",
+        "BINA MULYA SAMAJIK SURAKSHA YOJANA": "BINA MULYA SAMAJIK SURAKSHA YOJANA",
+        "West Bengal Pension Scheme for the Journalists, 2018": "West Bengal Pension Scheme for the Journalists, 2018",
+        "Lok Prasar Prakalpa(Pensioner)": "Lok Prasar Prakalpa(Pensioner)",
+        "Lok Prasar Prakalpa(Retainer)": "Lok Prasar Prakalpa(Retainer)",
+        "Swami Vivekananda Merit cum Means Scholarship": "Swami Vivekananda Merit cum Means Scholarship",
+        "Old age Pension for Fisherman": "Old age Pension for Fisherman",
+        "Scholarship For the Students With Disabilities(Class IX & Onwards)": "Scholarship For the Students With Disabilities(Class IX & Onwards)",
+        "Textile Pension": "Textile Pension",
+        "MSME Pension": "MSME Pension",
+        "Financial Support to Krishak Bandhu (Assured Income)": "Financial Support to Krishak Bandhu (Assured Income)",
+        "Old age Pension for Farmer": "Old age Pension for Farmer",
+        "MISSION VATSALYA": "MISSION VATSALYA",
+        "Pre-Matric Scholarship Scheme for ST student": "Pre-Matric Scholarship Scheme for ST student",
+        "Post-Matric Scholarship Scheme for ST student": "Post-Matric Scholarship Scheme for ST student",
+        "Centrally Sponsored Scheme of Pre Matric Scholarship for Scheduled Caste Students studying in Classes IX and X": "Centrally Sponsored Scheme of Pre Matric Scholarship for Scheduled Caste Students studying in Classes IX and X",
+        "Centrally Sponsored Scheme of Pre-Matric Scholarshhips to the Other Backward Classes": "Centrally Sponsored Scheme of Pre-Matric Scholarshhips to the Other Backward Classes",
+        "Centrally Sponsored Scheme Of Post Matric Scholarships To The Students belonging to Scheduled Castes For Studies in India": "Centrally Sponsored Scheme Of Post Matric Scholarships To The Students belonging to Scheduled Castes For Studies in India",
+        "Centrally Sponsored Scheme of Post - Matric Scholarship for OBC Students for studying in India": "Centrally Sponsored Scheme of Post - Matric Scholarship for OBC Students for studying in India",
+        "Indira Gandhi Old Age Pension Scheme": "Indira Gandhi Old Age Pension Scheme",
+        "Indira Gandhi National Widow Pension Scheme": "Indira Gandhi National Widow Pension Scheme",
+        "Indira Gandhi National Disability Pension Scheme-IGNDPS": "Indira Gandhi National Disability Pension Scheme-IGNDPS",
+        "Pradhan Mantri Matsya Sampada Yojona": "Pradhan Mantri Matsya Sampada Yojona",
+        "Kanyashree": "Kanyashree",
+        "Rupashree": "Rupashree",
+        "Krishak Bandhu": "Krishak Bandhu",
+        "Old Age Pension": "Old Age Pension",
+        "Disability Pension": "Disability Pension",
+        "Widow Pension": "Widow Pension",
+        "PM-Kisan": "PM-Kisan",
+        "Others": "Others"
+    },
+    "relations": [
+        "Spouse",
+        "Son",
+        "Daughter",
+        "Father",
+        "Mother",
+        "Brother",
+        "Sister",
+        "Father-in-law",
+        "Mother-in-law",
+        "Son-in-law",
+        "Daughter-in-law",
+        "Grandson",
+        "Granddaughter",
+        "Grandfather",
+        "Grandmother",
+        "Uncle",
+        "Aunt",
+        "Nephew",
+        "Niece",
+        "Others"
+    ],
+    "qualifications": {
+        "Illiterate": "Illiterate",
+        "Lower than 10th/Madhyamik": "Lower than 10th/Madhyamik",
+        "10th/Madhyamik": "10th/Madhyamik",
+        "12th/Uchacha Madhyamik": "12th/Uchacha Madhyamik",
+        "Diploma": "Diploma",
+        "Graduation": "Graduation",
+        "Post Graduation": "Post Graduation",
+        "Doctorate": "Doctorate",
+        "Post Doctorate and Higher": "Post Doctorate and Higher"
+    },
+    "schoolGrades": {
+        "Pre-Primary": "Pre-Primary",
+        "Nursery": "Nursery",
+        "KG": "KG",
+        "LKG": "LKG",
+        "UKG": "UKG",
+        "1": "Class 1",
+        "2": "Class 2",
+        "3": "Class 3",
+        "4": "Class 4",
+        "5": "Class 5",
+        "6": "Class 6",
+        "7": "Class 7",
+        "8": "Class 8",
+        "9": "Class 9",
+        "10": "Class 10",
+        "11": "Class 11",
+        "12": "Class 12",
+        "NA": "NA"
+    },
+    "maxUserPerRoleOffice": 10,
+    "maxDelegatedApprover": 22,
+    "maxMisUserState": 15
+}

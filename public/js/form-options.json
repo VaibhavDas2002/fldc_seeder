@@ -1,0 +1,25 @@
+{
+  "Gender": {
+    "1": "M",
+    "2": "F",
+    "3": "Others"
+  },
+  "Caste": {
+    "1": "SC",
+    "2": "ST",
+    "3": "OBC",
+    "4": "General"
+  },
+  "Maritual Status": {
+    "1": "Married",
+    "2": "Unmarried"
+  },
+  "District": {},
+  "Assemblies": {},
+  "Rural/Urban": {},
+  "Block": {},
+  "Panchayat": {},
+  "IFSC": {},
+  "Bank Name": {},
+  "Branch Name": {}
+}

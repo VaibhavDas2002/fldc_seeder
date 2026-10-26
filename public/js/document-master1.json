@@ -1,0 +1,137 @@
+[
+    {
+        "doc_type_id": 1050,
+        "doc_name": "Aadhaar",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Aadhaar / আধার আপলোড করুন"
+    },
+    {
+        "doc_type_id": 102,
+        "doc_name": "EPIC",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Voter Card / ভোটার কার্ড আপলোড করুন"
+    },
+    {
+        "doc_type_id": 103,
+        "doc_name": "PAN",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload PAN / প্যান আপলোড করুন"
+    },
+    {
+        "doc_type_id": 104,
+        "doc_name": "Bank Account",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Bank Passbook / ব্যাংক পাসবুক আপলোড করুন"
+    },
+    {
+        "doc_type_id": 105,
+        "doc_name": "Digital Ration Card",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Ration Card / রেশন কার্ড আপলোড করুন"
+    },
+    {
+        "doc_type_id": 106,
+        "doc_name": "Caste Certificate / EWS Certificate",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Certificate / সংশাপত্র আপলোড করুন"
+    },
+    {
+        "doc_type_id": 107,
+        "doc_name": "Health Insurance Document (Swasthya Sathi, Ayushman Bharat)",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Health Document / স্বাস্থ্য কার্ড আপলোড করুন"
+    },
+    {
+        "doc_type_id": 108,
+        "doc_name": "Land Documents",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Land Document / জমির দলিল আপলোড করুন"
+    },
+    {
+        "doc_type_id": 109,
+        "doc_name": "Vaccination Card",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Vaccination Card / টিকাদান কার্ড আপলোড করুন"
+    },
+    {
+        "doc_type_id": 110,
+        "doc_name": "SIR Application",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload SIR Document / এস.আই.আর আপলোড করুন"
+    },
+    {
+        "doc_type_id": 1150,
+        "doc_name": "CAA Application",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload CAA Document / সি.এ.এ আপলোড করুন"
+    },
+    {
+        "doc_type_id": 112,
+        "doc_name": "Employment Document",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Document / কর্মসংস্থান আপলোড করুন"
+    },
+    {
+        "doc_type_id": 113,
+        "doc_name": "Pension Document",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Pension Document / পেনশন আপলোড করুন"
+    },
+    {
+        "doc_type_id": 114,
+        "doc_name": "Others (KCC / ARD KCC / MJCC / Disability Certificate / Fisherman Registration Card / Others)",
+        "maxSize": 200,
+        "minSize": 50,
+        "extensions": "jpg,jpeg,png,pdf",
+        "displayExtensions": "JPG, PNG, PDF, JPEG",
+        "button_text": "Upload Certificate / সংশাপত্র আপলোড করুন"
+    },
+    {
+        "doc_type_id": 115,
+        "doc_name": "Signature Upload",
+        "maxSize": 200,
+        "minSize": 10,
+        "extensions": "jpg,jpeg,png",
+        "displayExtensions": "JPG, PNG",
+        "button_text": "Upload Signature / স্বাক্ষর আপলোড করুন"
+    }
+]
